@@ -1,4 +1,4 @@
-![logo](https://github.com/tayyab-ai/tayyab-ai/blob/main/Black%20and%20Neon%20Green%20Offline%20Twitch%20Banner%20-%20Made%20with%20PosterMyWall.jpg)
+![logo](https://github.com/tayyab-ai/tayyab-ai/blob/main/removeg%20bg.png)
 # 💫 About Me:
 ════════════════════════════════════ ⋆★⋆ ══════════════════════════════════<br><br>🤖 Building AI systems, SyncDesk & a next-gen AI Browser Extension — always shipping.<br>💡 Open-source AI tools & creative projects — if it's innovative, I'm in.<br>🎮 Building a Shell Shockers web game mod — need an expert in browser-based game modding.<br>🔐 Learning Cybersecurity — paused for exams, but the journey isn't stopping.<br>⚡ Vibe Coding and Prompt Engineering — I've cracked the art of communicating with AI to get exactly what I want, every time.<br>🕹️ I can make AI dance to my tune — literally bend it to my will with the right words. It's not magic, it's Prompt Engineering.<br><br>════════════════════════════════════ ⋆★⋆ ══════════════════════════════════<br>
 

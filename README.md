@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="500" src="https://img.freepik.com/premium-photo/night-coder-neon-workspace-futuristic-home-office-vibes-programming-enthusiasts_94064-55791.jpg?semt=ais_hybrid&w=740&q=80">
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/j4unRUPUAb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TayyabKhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayyab_1420) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/j4unRUPUAb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563511058123) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayyab_1420) 
 
 # 💻 Tech Stack:
 
